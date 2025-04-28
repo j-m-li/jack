@@ -2,6 +2,8 @@
 Public Domain JACK compiler
 ===========================
 
+![public domain](https://raw.githubusercontent.com/public-domain/jack/main/img/pd.png)
+
 
 The Unofficial Jack Programming language
 ----------------------------------------
@@ -60,6 +62,7 @@ Jack is easy to learn but it is designed to be yet useful.
 
 The Jack language was design for teaching the basis of computer construction.
 
+![the number of](https://raw.githubusercontent.com/public-domain/jack/main/img/beast.jpg)
 
 ### 1.2 Differences from the book
 

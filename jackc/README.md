@@ -2,6 +2,10 @@
 Public Domain JACK compiler
 ===========================
 
+This public domain software is a sustainable economy project.
+
+![public domain](https://raw.githubusercontent.com/cod5-dot-com/jackc/main/img/pd.png)
+
 
 The Unofficial Jack Programming language
 ----------------------------------------
@@ -24,11 +28,9 @@ Status of this document
 -----------------------
 
 ``` 
-The author or authors of this Document dedicate any and all copyright interest 
-in this Document to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and successors. 
-We intend this dedication to be an overt act of relinquishment in perpetuity 
-of all present and future rights to this Document under copyright law. 
+
+This document is released into the public domain.
+
 ```
 
 Table of Contents
@@ -51,7 +53,7 @@ Elon Musk asks "is [life a video game][9]" ?
 
 In a blues song (the roots of Hard Rock), AC/DC says "she's got [the Jack][4]" and "she's a dirty woman".
 
-Could the roots of our Universe be coded in Jack programming language by our Creator ?
+Could the roots of our Universe be coded in Jack programming language by our ancestors ?
 
 Jack is easy to learn but it is designed to be yet useful.
 
@@ -60,6 +62,7 @@ Jack is easy to learn but it is designed to be yet useful.
 
 The Jack language was design for teaching the basis of computer construction.
 
+![the number of](https://raw.githubusercontent.com/cod5-dot-com/jackc/main/img/beast.jpg)
 
 ### 1.2 Differences from the book
 
@@ -160,7 +163,7 @@ Done!
 
 ## 3. Specification
 
-### 3.1 Organization
+### 3.1 Structure of a program
 
 A Jack program is composed of one or more files that each describe a single
 class. Each class is compiled separately then they are all linked to create
@@ -872,6 +875,18 @@ keywordConstant:
 [8]: https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p
 [9]: https://www.youtube.com/watch?v=2KK_kzrJPS8 
 [10]: http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/Supplied-compiler-doesn-t-agree-what-is-true-between-if-statement-and-while-statement-td4032492.html
+[11]: https://www.sustainable.org/economy/
+[12]: https://web.archive.org/web/20110920035144/http://www.dcd.pl/asoft.php
+[13]: https://archive.org/details/bitsavers_motorola
+[14]: https://unlicense.org/
+[15]: https://www.sqlite.org/copyright.html
+[16]: https://ohwr.org/cern_ohl_p_v2.txt
+[17]: https://www.youtube.com/watch?v=Q8RqgVjIDB8
+[18]: https://www.economist.com/big-mac-index
+[19]: https://www.travailler-en-suisse.ch/tendances-salaires-informaticiens-suisse.html
+[20]: https://opensource.org/licenses
+[21]: http://www.salaryexplorer.com/salary-survey.php?loc=210&loctype=1&job=1&jobtype=1
+
 
 ***
 
