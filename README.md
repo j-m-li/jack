@@ -2,6 +2,8 @@
 Public Domain JACK compiler
 ===========================
 
+The jack-games/ files are copyrighted. The other files are public domain.
+
 
 The Unofficial Jack Programming language
 ----------------------------------------
