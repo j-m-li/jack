@@ -1,6 +1,0 @@
-
-#ifndef var
-#define JACK_HACK
-#define var short
-#endif
-#define JACK_IMPLEMENTATION
